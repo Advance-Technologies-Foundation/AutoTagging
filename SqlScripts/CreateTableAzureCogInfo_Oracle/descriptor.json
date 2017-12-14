@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "86B6299B-07CA-4E02-9D24-028296DA24F0",
+    "Name": "CreateTableAzureCogInfo_Oracle",
+    "DBEngineType": 1,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1512379048000)\/",
+    "DependsOn": []
+  }
+}

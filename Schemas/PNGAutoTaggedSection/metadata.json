@@ -1,0 +1,53 @@
+= MetaData.Schema.UId "73eeeee2-2aac-42e7-9af9-1ebb9a56cfdd"
+= MetaData.Schema.A2 "PNGAutoTaggedSection"
+= MetaData.Schema.A5 "007e929a-3e8b-4281-b035-ce41f6e23d60"
+= MetaData.Schema.B6 "aa743662-70d3-42ac-b890-a404dbbac937"
++ MetaData.Schema.B8 "0.0.0.0"
+= MetaData.Schema.EG1.UId "550e6415-212e-4a16-bba5-1fb6b7a20582"
+= MetaData.Schema.EG1.A2 "PNGAutoTaggedSectionEventsProcess"
+= MetaData.Schema.EG1.A5 "007e929a-3e8b-4281-b035-ce41f6e23d60"
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
++ MetaData.Schema.EG1.BK37 {"BL1":"Terrasoft.Core.Process.ProcessSchemaParameter","UId":"cdd58be7-2dba-4a5e-869b-1ad5d6d7513a","A2":"NotificationCaption","A3":"bb4d6607-026b-4b27-b640-8f5c77c1e89d","A4":"bb4d6607-026b-4b27-b640-8f5c77c1e89d","L1":"8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2","L8":{"GS1":3,"GS2":"[#[PropertyValue:Caption]#]"}}
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "c5e4d2b6-6e09-46f2-8205-58d7f21369a5",
+  "A2": "PNGSection",
+  "A3": "73eeeee2-2aac-42e7-9af9-1ebb9a56cfdd",
+  "A4": "73eeeee2-2aac-42e7-9af9-1ebb9a56cfdd",
+  "A5": "007e929a-3e8b-4281-b035-ce41f6e23d60",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2b2ed767-0b4b-4a7b-9de2-d48e14a2c0c5",
+  "E6": true,
+  "E17": "PNGSectionId",
+  "E18": "PNGSectionCaption"
+}
++ MetaData.Schema.D2 {
+  "UId": "b4b9de87-4c20-4a09-9feb-b63530ac48b1",
+  "A2": "PNGColumns",
+  "A3": "73eeeee2-2aac-42e7-9af9-1ebb9a56cfdd",
+  "A4": "73eeeee2-2aac-42e7-9af9-1ebb9a56cfdd",
+  "A5": "007e929a-3e8b-4281-b035-ce41f6e23d60",
+  "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","c5e4d2b6-6e09-46f2-8205-58d7f21369a5","b4b9de87-4c20-4a09-9feb-b63530ac48b1"]
+= MetaData.Schema.D20.A2 "PNGAutoTaggedSectionEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK28
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

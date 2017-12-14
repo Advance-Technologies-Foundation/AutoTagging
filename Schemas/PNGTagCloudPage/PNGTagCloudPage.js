@@ -1,0 +1,1 @@
+define("PNGTagCloudPage",["SmartTags","SmartTagsCloudPage"],function(){return arguments[1] || {}});

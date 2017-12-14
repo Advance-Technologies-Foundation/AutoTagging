@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "ff2d35fc-85cc-4b3f-8c8d-88eb0526aa14",
+    "Name": "tsp_AssignTags",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1512379048000)\/",
+    "DependsOn": []
+  }
+}

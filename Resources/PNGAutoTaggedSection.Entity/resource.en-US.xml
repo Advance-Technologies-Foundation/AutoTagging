@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Auto Tagged Section" />
+			<Item Name="Columns.PNGColumns.Caption" Value="Columns" />
+			<Item Name="Columns.PNGSection.Caption" Value="Section" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,1 @@
+require.config({paths:{d3js:"https://d3js.org/d3.v3.min",smarttags:"https://pngstore.azureedge.net/SmartTags/release/smart-tags-min"},bundles:{smarttags:["SmartTagsSection","SmartTagsD3LayoutCloud","SmartTagCloudPage"]}}),define("BaseSectionV2",["smarttags","SmartTagsSection"],function(){return arguments[1]});

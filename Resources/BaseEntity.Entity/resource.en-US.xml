@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityInsertedScriptTask_AutoTagging.Caption" Value="Base entity inserted script task" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityInsertedStartMessage_AutoTagging.Caption" Value="Base entity inserted" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_a558a0ba04e54a0f91a2ac70fd238ee2.Caption" Value="Pool 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_a558a0ba04e54a0f91a2ac70fd238ee2.Lanes.Lane1_22a403be44ac4ea9904251baa41a0dff.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Methods.AddAutoTags.Caption" Value="Add auto tags" />
+		</Items>
+	</Group>
+</Resources>

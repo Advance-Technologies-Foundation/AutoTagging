@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "fa8bbf61-5e0a-4165-b089-e160029eb979",
+    "Name": "tsp_AssignTags_Oracle",
+    "DBEngineType": 1,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1512404356000)\/",
+    "DependsOn": []
+  }
+}

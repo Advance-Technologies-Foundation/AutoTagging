@@ -1,0 +1,25 @@
+﻿{
+  "Descriptor": {
+    "UId": "aa743662-70d3-42ac-b890-a404dbbac937",
+    "Name": "AutoTagging",
+    "ModifiedOnUtc": "\/Date(1511968517000)\/",
+    "Maintainer": "Terrasoft",
+    "DependsOn": [
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}
